@@ -29,8 +29,8 @@ const CONFIG = {
         },
         second: {
             text: "Do you really mean that?",                          // For the love meter
-            startText: "CHIIIIIIIIIIIIIIIIIIII!",                                   // Text before the percentage
-            nextBtn: "Next 🤍"                                         // Text for the next button
+            startText: "Chi 🤍",                                   // Text before the percentage
+            nextBtn: "Next 💗"                                         // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
@@ -40,6 +40,11 @@ const CONFIG = {
     },
 
     // Love meter messages
+    loveMessages: {
+    extreme: "CHIIIIIIIIIIIII 🤍🤍🤍🤍🤍",  // Shows above 5000%
+    high: "CHIIIIIII",              // Shows above 1000%
+    normal: "CHI"                           // Shows above 100%
+},
     // They show up depending on how far they slide the meter
 
     // Messages that appear after they say "Yes!"
