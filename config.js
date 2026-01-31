@@ -25,11 +25,11 @@ const CONFIG = {
             text: "Chi me quieres?",                                    // First interaction
             yesBtn: "ye",                                             // Text for "Yes" button
             noBtn: "no",                                               // Text for "No" button
-            secretAnswer: "CHIIIIIIIIIIII 🤍"           // Secret hover message
+            secretAnswer: "Chi 🤍"           // Secret hover message
         },
         second: {
             text: "Do you really mean that?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            startText: "CHIIIIIIIIIIIIIIIIIIII!",                                   // Text before the percentage
             nextBtn: "Next 🤍"                                         // Text for the next button
         },
         third: {
